@@ -41,8 +41,8 @@ margin: 0 auto;
   font-family: 'Helvetica', arial, sans-serif;
 }
 
-/*links*/ 
-li {
+/*links*/
+#Links {
   display: inline;
   text-align: center;
 }
