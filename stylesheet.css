@@ -32,11 +32,17 @@
 width: 100%;
 max-width: 900px;
 column-count: 1;
-align-content: center;
+text-align: center;
 margin: 0 auto;
 }
 
 #byline {
   font-size: 10px;
   font-family: 'Helvetica', arial, sans-serif;
+}
+
+/*links*/ 
+li {
+  display: inline;
+  text-align: center;
 }
