@@ -46,3 +46,9 @@ margin: 0 auto;
   display: inline;
   text-align: center;
 }
+
+#blockquote {
+  color: #444;
+  font-size: 2em;
+  font-family: 'open sans';
+}
